@@ -8,7 +8,6 @@ namespace LetsGetChecked.Exception
         public InvalidFileException(string message) : base(message)
         {
             Console.WriteLine(message);
-            Console.ReadKey();
         }
     }
 }

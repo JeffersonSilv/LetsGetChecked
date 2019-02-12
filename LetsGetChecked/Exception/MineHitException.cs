@@ -7,7 +7,6 @@ namespace LetsGetChecked.Exception
         public MineHitException(string message) : base(message)
         {
             Console.WriteLine(message);
-            Console.ReadKey();
         }
     }
 }

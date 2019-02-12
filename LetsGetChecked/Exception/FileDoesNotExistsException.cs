@@ -9,7 +9,6 @@ namespace LetsGetChecked.Exception
         public FileDoesNotExistsException(string message) : base(message)
         {
             Console.WriteLine(message);
-            Console.ReadKey();
         }
     }
 }
