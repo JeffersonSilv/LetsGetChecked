@@ -1,0 +1,14 @@
+C:\Users\JdaSilva\Downloads\Fluke\LetsGetChecked.Console\bin\Debug\LetsGetChecked.Console.exe.config
+C:\Users\JdaSilva\Downloads\Fluke\LetsGetChecked.Console\bin\Debug\LetsGetChecked.Console.exe
+C:\Users\JdaSilva\Downloads\Fluke\LetsGetChecked.Console\bin\Debug\LetsGetChecked.Console.pdb
+C:\Users\JdaSilva\Downloads\Fluke\LetsGetChecked.Console\bin\Debug\LetsGetChecked.dll
+C:\Users\JdaSilva\Downloads\Fluke\LetsGetChecked.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JdaSilva\Downloads\Fluke\LetsGetChecked.Console\bin\Debug\LetsGetChecked.pdb
+C:\Users\JdaSilva\Downloads\Fluke\LetsGetChecked.Console\bin\Debug\LetsGetChecked.dll.config
+C:\Users\JdaSilva\Downloads\Fluke\LetsGetChecked.Console\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\JdaSilva\Downloads\Fluke\LetsGetChecked.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JdaSilva\Downloads\Fluke\LetsGetChecked.Console\obj\Debug\LetsGetChecked.Console.csprojAssemblyReference.cache
+C:\Users\JdaSilva\Downloads\Fluke\LetsGetChecked.Console\obj\Debug\LetsGetChecked.Console.csproj.CoreCompileInputs.cache
+C:\Users\JdaSilva\Downloads\Fluke\LetsGetChecked.Console\obj\Debug\LetsGetChecked.Console.csproj.CopyComplete
+C:\Users\JdaSilva\Downloads\Fluke\LetsGetChecked.Console\obj\Debug\LetsGetChecked.Console.exe
+C:\Users\JdaSilva\Downloads\Fluke\LetsGetChecked.Console\obj\Debug\LetsGetChecked.Console.pdb

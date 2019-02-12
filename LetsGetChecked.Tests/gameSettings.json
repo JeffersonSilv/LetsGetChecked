@@ -1,0 +1,35 @@
+{
+  "CurrentTileInfo": {
+    "Direction": "N",
+    "X": 0,
+    "Y": 2
+  },
+  "BoardSizeInfo": {
+    "Position": {
+      "X": 5,
+      "Y": 4
+    }
+  },
+  "BoardExitInfo": {
+    "Position": {
+      "X": 4,
+      "Y": 1
+    }
+  },
+  "BoardMiningInfo": {
+    "Mines": [
+      {
+        "X": 1,
+        "Y": 2
+      },
+      {
+        "X": 3,
+        "Y": 0
+      },
+      {
+        "X": 3,
+        "Y": 2
+      }
+    ]
+  }
+}
