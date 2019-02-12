@@ -7,7 +7,6 @@ namespace LetsGetChecked.Exception
         public OutOfBondsException(string message) : base(message)
         {
             Console.WriteLine(message);
-            Console.ReadKey();
         }
     }
 }
